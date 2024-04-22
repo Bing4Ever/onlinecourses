@@ -2,8 +2,6 @@ package com.lintcode.daily;
 
 import java.util.*;
 
-import javax.swing.text.StyledEditorKit.BoldAction;
-
 /**
  * <p>https://www.lintcode.com/problem/788/</p>
  */

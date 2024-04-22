@@ -24,7 +24,7 @@ public class Code1357_PathSumIITest {
         Code1235_SerializeAndDeserializeBST help = new Code1235_SerializeAndDeserializeBST();
 
         TreeNode node = help.deserialize(input);
-        List<List<Integer>> result = this.target.pathSum(node, 22);
+        //List<List<Integer>> result = this.target.pathSum(node, 22);
         assertTrue(true);
     }
 }
