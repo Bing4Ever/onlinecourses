@@ -2,12 +2,12 @@ package com.msb.basic;
 
 import com.lintcode.common.ListNode;
 
-public class MyQueue {
+public class LinkedList_MyQueue {
     private ListNode head;
     private ListNode tail;
     private int size = 0;
 
-    public MyQueue() {
+    public LinkedList_MyQueue() {
         head = null;
         tail = null;
         size = 0;

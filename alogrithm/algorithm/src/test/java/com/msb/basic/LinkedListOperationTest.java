@@ -9,11 +9,11 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class LinkedListOperationTest {
-    private LinkedListOperation target;
+    private LinkedList_Operation target;
 
     @Before
     public void init() {
-        this.target = new LinkedListOperation();
+        this.target = new LinkedList_Operation();
     }
 
     @Test

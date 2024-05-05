@@ -3,7 +3,7 @@ package com.msb.basic;
 import com.lintcode.common.DoubleNode;
 import com.lintcode.common.ListNode;
 
-public class LinkedListOperation {
+public class LinkedList_Operation {
 
     public ListNode reverseLinkedList(ListNode node) {
         ListNode pre = null;

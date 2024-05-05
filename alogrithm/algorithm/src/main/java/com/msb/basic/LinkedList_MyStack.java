@@ -2,11 +2,11 @@ package com.msb.basic;
 
 import com.lintcode.common.ListNode;
 
-public class MyStack {
+public class LinkedList_MyStack {
     private ListNode head;
     private int size;
 
-    public MyStack(){
+    public LinkedList_MyStack(){
         head = null;
         size = 0;
     }
