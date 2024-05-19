@@ -14,7 +14,7 @@ public class Code1235_SerializeAndDeserializeBST {
   
     public TreeNode deserialize(String data) {
         String[] dataArray = data.split(",");
-        List<String> dataList = new LinkedList<String>(Arrays.asList(dataArray));
+        List<String> dataList = new LinkedList<>(Arrays.asList(dataArray));
         return rdeserialize(dataList);
     }
 

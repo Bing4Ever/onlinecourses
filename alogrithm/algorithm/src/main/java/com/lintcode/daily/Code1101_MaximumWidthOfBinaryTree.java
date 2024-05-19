@@ -1,8 +1,6 @@
 package com.lintcode.daily;
 
 import java.util.*;
-import java.util.logging.Level;
-
 import com.lintcode.common.TreeNode;
 
 /**
